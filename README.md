@@ -7,7 +7,6 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-
 <p align="center">
   <img alt="projeto DevLinks" src=".github/Capa..jpg" width="100%">
 </p>
@@ -25,9 +24,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse é um projeto Web Responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://lordipg.github.io/Spacetime/)
 
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
 ## 🔖 Layout
 
